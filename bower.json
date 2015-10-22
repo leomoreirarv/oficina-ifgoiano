@@ -1,0 +1,25 @@
+{
+  "name": "oficina-ifgoiano",
+  "authors": [
+    "Leonardo Melo Moreira <leonardomm@gmail.com>"
+  ],
+  "description": "Oficina de Desenvolvimento de App Web com Angular JS",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Angularjs",
+    "JavaScript",
+    "FrontEnd",
+    "Json",
+    "IfGoiano"
+  ],
+  "license": "MIT",
+  "homepage": "www.leonardommoreira.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
