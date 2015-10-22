@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo 2 - Oficina Angular.js</title>
+</head>
+<body ng-app="myApp">
+    <header ng-controller="headerCtrl">
+        <h1>{{bemvindo}}</h1>
+        <p>{{descricao}}</p>
+    </header>
+</body>
+<script src="../../bower_components/angular/angular.min.js"></script>
+<script>
+    var myApp = angular.module("myApp", []);
+</script>
+</html>
